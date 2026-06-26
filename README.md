@@ -390,8 +390,9 @@ Adafruit SSD1306
 
 ```text
 Smart-Parking-System/
-├── Parking.ino
-└── README.md
+├── README.md
+└── Parking/
+    └── Parking.ino
 ```
 
 현재 프로젝트 규모에서는 모든 기능을 하나의 Arduino Sketch 파일로 관리한다.
